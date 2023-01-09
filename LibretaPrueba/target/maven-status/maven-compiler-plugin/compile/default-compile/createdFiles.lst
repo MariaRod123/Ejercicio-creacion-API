@@ -1,0 +1,9 @@
+com\sofka\LibretaPrueba\repository\ContactoRepository.class
+com\sofka\LibretaPrueba\domain\Telefono.class
+com\sofka\LibretaPrueba\services\LibretaService.class
+com\sofka\LibretaPrueba\repository\TelefonoRepository.class
+com\sofka\LibretaPrueba\domain\Contacto.class
+com\sofka\LibretaPrueba\utility\Response.class
+com\sofka\LibretaPrueba\controller\LibretaController.class
+com\sofka\LibretaPrueba\LibretaPruebaApplication.class
+com\sofka\LibretaPrueba\services\interfaces\ILibreta.class
