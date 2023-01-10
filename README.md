@@ -45,6 +45,23 @@
    
    ![2023-01-09_23h14_39](https://user-images.githubusercontent.com/72228855/211446591-34ab618d-d917-4353-aef2-a392444089c1.png)
    
+   Prueba del método PUT
+   
+   Antes de realizar la modificación
+   
+   ![2023-01-09_23h25_28](https://user-images.githubusercontent.com/72228855/211448003-59952df6-cd03-4d60-9e50-a5286ab69fcc.png)
+   
+   Modificando desde Postman
+   
+   ![2023-01-09_23h24_36](https://user-images.githubusercontent.com/72228855/211448193-4c8a6505-77fa-4f31-b18d-a9ebeef71eb4.png)
+   
+   Verificando los cambios en la BD
+   
+   ![2023-01-09_23h29_33](https://user-images.githubusercontent.com/72228855/211448384-06e80fa8-e940-4ba0-b9a0-ceba0e5227f6.png)
+
+
+
+   
    
 
 
