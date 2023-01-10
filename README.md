@@ -37,6 +37,13 @@
    Prueba del método DELETE 
    
    ![2023-01-09_23h08_40](https://user-images.githubusercontent.com/72228855/211446188-bd42f7bd-07db-44d1-87e1-cd326fa78bf4.png)
+   
+   Luego verifico en la BD que efectivamente se borró el contacto con id=15
+   
+   ![2023-01-09_23h14_39](https://user-images.githubusercontent.com/72228855/211446591-34ab618d-d917-4353-aef2-a392444089c1.png)
+   
+   
+
 
    
 
