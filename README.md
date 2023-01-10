@@ -20,7 +20,7 @@
   
    Para realizar las pruebas de los endpoints se utilizó  la herramienta Postman.
    
-   Ejemplo de prueba del método GET que lista los contactos que existen en la BD
+   A continuación se muestran algunos ejemplos de prueba: método GET para listar los contactos de mi BD  
    
    
    ![2023-01-09_22h53_14](https://user-images.githubusercontent.com/72228855/211444215-dcc021fd-d853-4c65-a769-def01bd6c7e1.png)
@@ -32,4 +32,11 @@
    Ejemplo de prueba del método GET para buscar un contacto por nombre o apellido
    
    ![2023-01-09_22h59_03](https://user-images.githubusercontent.com/72228855/211444943-98f8a89c-09a3-4b29-8a43-3adbef5e436b.png)
+   
+   
+   Prueba del método DELETE 
+   
+   ![2023-01-09_23h08_40](https://user-images.githubusercontent.com/72228855/211446188-bd42f7bd-07db-44d1-87e1-cd326fa78bf4.png)
+
+   
 
